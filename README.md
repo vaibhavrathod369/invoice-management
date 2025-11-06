@@ -139,4 +139,4 @@ Backend Developer | Java | ERP Systems | Databases
 
 📧 Email: vaibhavrathod369@example.com
 🔗 LinkedIn: https://www.linkedin.com/in/vaibhavrathod369/
-💻 GitHub: github.com/VaibhavRathod
+💻 GitHub: https://github.com/vaibhavrathod369
